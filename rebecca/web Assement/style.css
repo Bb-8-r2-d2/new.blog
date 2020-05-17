@@ -1,0 +1,108 @@
+ .top{
+           padding-left: 6px;
+        font-size: 85px;
+            height: 120px;
+            width:590px;
+         position:relative;
+            left:300px;
+            position: absolute;
+            top: 35px;
+            background-color: #ffffff;
+            font-family:Helvetica, sans-serif;
+             border:5px dashed rgb(67, 136, 216); 
+            border-radius: 20px;
+}
+   #text {
+            background-color: rgb(67, 136, 216); 
+            color:#ffffff;
+            height:330px;
+            width:830px ;
+            font-size: 25px;
+            font-family:Helvetica, sans-serif;
+            padding-left: 3px;
+            border:5px dashed #ffffff;
+            overflow: hidden;
+        }
+       
+        #body {
+            background-color: rgb(255, 255, 131);
+            position: sticky;
+        }
+        
+        .do{
+            font-size: 35px;
+            background-color: #ffffff;
+            color:#000000;
+            width:850px;
+            margin-top:5px ;
+            margin-left:3px ;
+            position: relative;
+            top: 1px;
+                 
+        }
+        .link{
+            font-family:sans-serif;
+             
+            position: absolute;
+            top: 460px;
+            right:50px ;
+            background-color: rgb(67, 136, 216) ;
+            height:30px;
+            width: 300px;
+            padding-top: 3px;
+            padding-left: 4px;
+            
+        }
+        #links{
+            font-family:sans-serif;
+            font-size: 25px;
+           
+            position: absolute;
+            right:50px ;
+            top:  550px;
+            background-color: rgb(67, 136, 216) ;
+            height:30px;
+            width: 300px;
+            padding-top: 3px;
+            padding-left: 4px;
+            
+        }
+        .img{
+            height: 300px;
+            position: absolute;
+            top:590px ;
+            
+        }
+        #image{
+  height: 230px;
+  position: absolute;
+            top:100px;
+            right:130px ;
+        }
+        
+        #text_2{
+            border:5px dashed #ffffff;
+            background-color:rgb(67, 136, 216);
+            height:372px;
+           width: 300px;
+            overflow: hidden;
+            position: absolute;
+            right: 50px;
+            top:660px;
+             font-family:sans-serif;
+            color: white;
+            padding-top:3px;
+           padding-left: 4px:
+                
+               
+        }
+        #footer{
+            border:5px dashed rgb(67, 136, 216); 
+     background-color:#ffffff;
+            height:70px;
+           width: 140px;
+            position: absolute;
+           top:955px;
+         padding-left: 3px;
+            font-family:sans-serif;
+        
